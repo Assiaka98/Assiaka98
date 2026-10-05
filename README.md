@@ -1,10 +1,14 @@
-- 👋 Hi, I’m  Tiska
-- 👀 I’m interested in  le Dev Web et Web et Mobile
-- 🌱 I’m currently learning  PhP
-- 💞️ I’m looking to collaborate on  des Projets
-- 📫 How to reach me  mon mail isacadel98@gmail.com 
+### Salut, moi c'est Siaka — Dev Web | Dakar 🇸🇳
 
-<!---
-Assiaka98/Assiaka98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je construis des sites web simples et rapides. Focus **JavaScript / PHP**.
+
+**Stack:** `HTML` `CSS` `JavaScript` `PHP` `Git` `MySQL`
+
+**🚀 Projets :**
+- **Tic-Tac-Toe Pro** → [Code](https://github.com/Assiaka98/Tic-Tac-Toe) | [Démo Live](https://assiaka98.github.io/Tic-Tac-Toe/) - Jeu JS avec IA imbattable
+- *Ajoute ton 2ème meilleur projet ici*
+- *Ajoute ton 3ème meilleur projet ici*
+
+**📫 Me trouver :** [LinkedIn](www.linkedin.com/in/issiaka-traore-6511241ba) • isacadel98@gmail.com
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Assiaka98&show_icons=true&theme=tokyonight)
